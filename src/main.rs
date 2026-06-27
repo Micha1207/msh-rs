@@ -32,7 +32,7 @@ fn main() {
         "{}",
         "MSH Rust - Micha1207's Shell Program written in Rust Language.".red()
     );
-    println!("This program comes with WITHOUT ANY WARRANTY");
+    println!("This program comes WITHOUT ANY WARRANTY");
     println!("and is free software, licensed under GNU GPL v3.");
     println!(
         "To view all available commands type: {}",
