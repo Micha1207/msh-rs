@@ -1,0 +1,10 @@
+[package]
+name = "msh-rs"
+version = "0.1.0"
+edition = "2024"
+description = "MSH Rust - Micha1207's Shell Program written in Rust Language."
+license = "GPL-3.0-or-later"
+
+[dependencies]
+colored = "2.1.0"
+shell-words = "1.1.0"
